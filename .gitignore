@@ -26,3 +26,5 @@ secrets/
 .vscode/
 *.swp
 *~
+.agent/dist/
+.agent/node_modules/
